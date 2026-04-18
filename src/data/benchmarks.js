@@ -4,11 +4,11 @@ export const benchmarks = {
 };
 
 export const gameImages = {
-  valorant: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400&h=225&fit=crop',
-  cs2: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400&h=225&fit=crop',
-  fortnite: 'https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=400&h=225&fit=crop',
-  warzone: 'https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=400&h=225&fit=crop',
-  cyberpunk: 'https://images.unsplash.com/photo-1533230635445-d52d55a1a74c?w=400&h=225&fit=crop',
-  eldenring: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=225&fit=crop',
-  apex: 'https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=400&h=225&fit=crop',
+  valorant: 'https://placehold.co/400x225/080B10/FF3D00?text=VALORANT&font=montserrat',
+  cs2: 'https://placehold.co/400x225/080B10/FF3D00?text=CS2&font=montserrat',
+  fortnite: 'https://placehold.co/400x225/080B10/00E5FF?text=Fortnite&font=montserrat',
+  warzone: 'https://placehold.co/400x225/080B10/FF3D00?text=Warzone&font=montserrat',
+  cyberpunk: 'https://placehold.co/400x225/080B10/00E5FF?text=Cyberpunk+2077&font=montserrat',
+  eldenring: 'https://placehold.co/400x225/080B10/FF3D00?text=Elden+Ring&font=montserrat',
+  apex: 'https://placehold.co/400x225/080B10/00E5FF?text=Apex+Legends&font=montserrat',
 };

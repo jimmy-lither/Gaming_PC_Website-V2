@@ -5,7 +5,7 @@ export const products = [
     tagline: 'Entry-level dominance',
     tier: 'Entry',
     price: 1299,
-    image: 'https://images.unsplash.com/photo-1587202372775-e229f172b847?w=600&h=400&fit=crop',
+    image: 'https://placehold.co/600x400/080B10/00E5FF?text=Phantom+X&font=montserrat',
     specs: {
       gpu: 'RTX 4060',
       cpu: 'Intel i5-14600K',
@@ -25,7 +25,7 @@ export const products = [
     tagline: 'Professional grade performance',
     tier: 'Pro',
     price: 2199,
-    image: 'https://images.unsplash.com/photo-1593640408182-31c70c826aa5?w=600&h=400&fit=crop',
+    image: 'https://placehold.co/600x400/080B10/00E5FF?text=Omen+Ultra&font=montserrat',
     specs: {
       gpu: 'RTX 4080',
       cpu: 'Intel i7-14700K',
@@ -45,7 +45,7 @@ export const products = [
     tagline: 'Uncompromising power',
     tier: 'Elite',
     price: 3899,
-    image: 'https://images.unsplash.com/photo-1603481588273-2f908a9a7a1b?w=600&h=400&fit=crop',
+    image: 'https://placehold.co/600x400/080B10/00E5FF?text=Titan+Forge&font=montserrat',
     specs: {
       gpu: 'RTX 4090',
       cpu: 'Intel i9-14900K',
@@ -65,7 +65,7 @@ export const products = [
     tagline: 'AMD supremacy',
     tier: 'Pro',
     price: 2499,
-    image: 'https://images.unsplash.com/photo-1555618568-9b639a9187e7?w=600&h=400&fit=crop',
+    image: 'https://placehold.co/600x400/080B10/00E5FF?text=Stealth+Pro&font=montserrat',
     specs: {
       gpu: 'RX 7900 XT',
       cpu: 'AMD Ryzen 9 7950X',
@@ -85,7 +85,7 @@ export const products = [
     tagline: 'Create without limits',
     tier: 'Creator',
     price: 2899,
-    image: 'https://images.unsplash.com/photo-1591488320449-011701bb6704?w=600&h=400&fit=crop',
+    image: 'https://placehold.co/600x400/080B10/00E5FF?text=Creator+Beast&font=montserrat',
     specs: {
       gpu: 'RTX 4080 Super',
       cpu: 'AMD Ryzen 9 7900X',

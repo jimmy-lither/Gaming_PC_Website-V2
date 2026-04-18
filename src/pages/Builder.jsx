@@ -15,7 +15,7 @@ export default function Builder() {
       id: 'custom-build',
       name: 'Custom PC Build',
       price: total,
-      image: 'https://images.unsplash.com/photo-1587202372634-32705e3bf4a0?w=600&h=400&fit=crop',
+      image: 'https://placehold.co/600x400/080B10/00E5FF?text=Custom+Build&font=montserrat',
       specs: selectedParts,
     });
     toggleCart();
