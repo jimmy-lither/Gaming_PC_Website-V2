@@ -45,8 +45,14 @@ export default function Home() {
               Shop Prebuilts
             </Link>
             <Link
-              to="/builder"
+              to="/components"
               className="px-8 py-4 border-2 border-brand-cyan text-brand-cyan font-display font-bold rounded hover:bg-brand-cyan/10 transition-colors"
+            >
+              Browse Components
+            </Link>
+            <Link
+              to="/builder"
+              className="px-8 py-4 border-2 border-white/20 text-white font-display font-bold rounded hover:border-brand-cyan hover:text-brand-cyan transition-colors"
             >
               Configure Yours
             </Link>
