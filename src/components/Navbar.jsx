@@ -24,6 +24,7 @@ export default function Navbar() {
             {/* Desktop Nav */}
             <div className="hidden md:flex items-center space-x-8">
               <Link to="/shop" className="text-sm font-medium hover:text-brand-cyan transition-colors">Shop</Link>
+              <Link to="/components" className="text-sm font-medium hover:text-brand-cyan transition-colors">Components</Link>
               <Link to="/builder" className="text-sm font-medium hover:text-brand-cyan transition-colors">Build PC</Link>
               <Link to="/about" className="text-sm font-medium hover:text-brand-cyan transition-colors">About</Link>
               <Link to="/support" className="text-sm font-medium hover:text-brand-cyan transition-colors">Support</Link>
@@ -128,6 +129,7 @@ export default function Navbar() {
               
               <div className="flex flex-col space-y-6 text-lg">
                 <Link to="/shop" onClick={() => setMobileOpen(false)} className="hover:text-brand-cyan">Shop</Link>
+                <Link to="/components" onClick={() => setMobileOpen(false)} className="hover:text-brand-cyan">Components</Link>
                 <Link to="/builder" onClick={() => setMobileOpen(false)} className="hover:text-brand-cyan">Build PC</Link>
                 <Link to="/about" onClick={() => setMobileOpen(false)} className="hover:text-brand-cyan">About</Link>
                 <Link to="/support" onClick={() => setMobileOpen(false)} className="hover:text-brand-cyan">Support</Link>

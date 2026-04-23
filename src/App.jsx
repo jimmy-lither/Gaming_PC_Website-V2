@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import CartDrawer from './components/CartDrawer';
 import Home from './pages/Home';
 import Shop from './pages/Shop';
+import Components from './pages/Components';
 import Builder from './pages/Builder';
 import About from './pages/About';
 import Support from './pages/Support';
@@ -35,6 +36,7 @@ export default function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/shop" element={<Shop />} />
+            <Route path="/components" element={<Components />} />
             <Route path="/builder" element={<Builder />} />
             <Route path="/about" element={<About />} />
             <Route path="/support" element={<Support />} />
